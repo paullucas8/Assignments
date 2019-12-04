@@ -1,0 +1,7 @@
+My APIs have GET routes that is suppose to either get the entire collection or a particular brand of car.
+For POST it will submit a new car.
+
+However I couldn't get axios to either GET or POST to the the API.
+
+I used react to make the the Single Page website and have around 5 components.
+Because I couldn't get axios working I couldn't implement the passing of props that I was planning since I have no way of testing it.
